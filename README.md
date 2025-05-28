@@ -2,4 +2,10 @@
 
 
 1. [Системы контроля версий](https://github.com/gorelovniko/devops-netology/blob/main/GIT-01.Системы%20контроля%20версий/Системы%20контроля%20версий.md)
-   * В .gitignore папки Terraform добавлены файлы, которые содержат чувствительную информацию не подлежащую разглашению.
+   * Благодаря Terraform/.gitignore при отправки на github.com будут проигнорированы для добавления:
+     - Локальные файлы Terraform (.terraform/, *.tfstate)
+     - Файлы логов (crash.log, crash.*.log)
+     - Файлы переопределения (override.tf, override.tf.json, *_override.tf, *_override.tf.json)
+     - Файлы с чувствительными данными (*.tfvars, *.tfvars.json)
+     - Локальные конфигурационные файлы (terraform.rc)
+     Знак звездочки(*) означает любые знаки в имени файлов. Выражение ".terraform/" добавляет всю скрытую папку.
