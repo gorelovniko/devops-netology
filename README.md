@@ -1,2 +1,4 @@
-# devops-netology
-HomeWork DevOps Netology
+### DevOps-Netology - `Горелов Николай`
+
+
+1. [Системы контроля версий](Системы контроля версий.md)
