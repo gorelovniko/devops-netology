@@ -10,4 +10,6 @@
      - Локальные конфигурационные файлы (.terraformrc, terraform.rc)  
      Знак звездочки(*) означает любые знаки в имени файлов. Выражение ".terraform/" добавляет всю скрытую папку. Словосочетание terraform.rc указывает на конкретный файл.
 
-2. [Основы Git](https://github.com/gorelovniko/devops-netology/blob/main/GIT-02.%20Основы%20GIT/Основа%20GIT.md)
+2. [Основы Git](https://github.com/gorelovniko/devops-netology/blob/main/GIT-02.%20Основы%20GIT/Основа%20GIT.md)  
+
+3. [Ветвление в GIT]()
