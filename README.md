@@ -14,4 +14,4 @@
 
 3. [Ветвление в GIT](https://github.com/gorelovniko/devops-netology/tree/main/GIT-03.%20Ветвление%20в%20GIT)
 
-4. [Инструменты GIT]()
+4. [Инструменты GIT](https://github.com/gorelovniko/devops-netology/tree/main/GIT-04.%20Инструменты%20GIT)
