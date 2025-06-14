@@ -12,4 +12,4 @@
 
 2. [Основы Git](https://github.com/gorelovniko/devops-netology/blob/main/GIT-02.%20Основы%20GIT/Основа%20GIT.md)  
 
-3. [Ветвление в GIT]()
+3. [Ветвление в GIT](https://github.com/gorelovniko/devops-netology/tree/main/GIT-03.%20Ветвление%20в%20GIT)
